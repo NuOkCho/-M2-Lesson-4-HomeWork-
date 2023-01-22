@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		44E94DFB297DD762006214AB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E94DFA297DD762006214AB /* main.swift */; };
+		44E94E02297DD905006214AB /* Pensioner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E94E01297DD905006214AB /* Pensioner.swift */; };
+		44E94E04297DD928006214AB /* SocialFond.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E94E03297DD928006214AB /* SocialFond.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,8 @@
 /* Begin PBXFileReference section */
 		44E94DF7297DD762006214AB /* (M2)Lesson-4(HomeWork) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "(M2)Lesson-4(HomeWork)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		44E94DFA297DD762006214AB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		44E94E01297DD905006214AB /* Pensioner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pensioner.swift; sourceTree = "<group>"; };
+		44E94E03297DD928006214AB /* SocialFond.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialFond.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,8 @@
 			isa = PBXGroup;
 			children = (
 				44E94DFA297DD762006214AB /* main.swift */,
+				44E94E01297DD905006214AB /* Pensioner.swift */,
+				44E94E03297DD928006214AB /* SocialFond.swift */,
 			);
 			path = "(M2)Lesson-4(HomeWork)";
 			sourceTree = "<group>";
@@ -121,6 +127,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				44E94DFB297DD762006214AB /* main.swift in Sources */,
+				44E94E02297DD905006214AB /* Pensioner.swift in Sources */,
+				44E94E04297DD928006214AB /* SocialFond.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
