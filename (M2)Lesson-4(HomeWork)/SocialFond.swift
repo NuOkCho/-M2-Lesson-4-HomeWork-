@@ -15,7 +15,7 @@ class SocialFond{
     }
 
     private func increasePension(pensioner: Pensioner){
-        if pensioner.yearsOnPension > 5 {
+        if pensioner.yearsOnPension > 5{
             pensioner.currentPension += 1000
         }
     }
